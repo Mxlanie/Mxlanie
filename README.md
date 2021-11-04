@@ -11,6 +11,14 @@ let Info = {
   OS: "Windows 10 Home",
   Discord: "Mell#9969",
 };
+
+let Answers = {
+  DoIGetAskedTheseQuestionsAlot:
+    "Yes, it makes my head hurt so I answer them here :)",
+  AreYouAGirl: "Yes I am a girl, nothing special",
+  AreYouAMinor: "Yes I am a minor, I am 17 years old",
+  ForAllWeirdos: "Please dont annoy me, thank you <3",
+};
 ```
 ### Stats
 <a href="https://github.com/Mxlanie/Mxlanie">
