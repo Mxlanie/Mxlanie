@@ -1,7 +1,7 @@
 ## Welcome to my Profile!
 ### About Me:
 ```js
-const From = "The netherlands"
+const From = "The Netherlands"
 const Age = 17
 
 let Info = {
