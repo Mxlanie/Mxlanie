@@ -13,8 +13,8 @@ let Info = {
 };
 
 let Answers = {
-  DoIGetAskedTheseQuestionsAlot:
-    "Yes, it makes my head hurt so I answer them here :)",
+  commonQuestions:
+    "It makes my head hurt so I answer them here :)",
   AreYouAGirl: "Yes I am a girl, nothing special",
   AreYouAMinor: "Yes I am a minor, I am 17 years old",
   ForAllWeirdos: "Please dont annoy me, thank you <3",
