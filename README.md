@@ -6,7 +6,7 @@ const Age = 17
 
 let Info = {
   firstName: "Melanie",
-  Interests: "Node.js | API Development & NextJS",
+  Interests: "Node.js | Fullstack",
   Learning: "C++",
   OS: "Windows 10 Home",
   Discord: "Mell#9969",
